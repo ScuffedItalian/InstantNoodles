@@ -39,12 +39,15 @@
 ### BackColumn
 * INFO -> The back column behind the player
 * ID > `TimbalandEnvironment.[0]Environment.[28]BackColumns`
+![image](https://user-images.githubusercontent.com/110801525/211460540-4e6648d4-803c-4c35-b20b-0ad078858365.png)
+
 
 ### BuildingsLeft|Right
 * INFO -> Buildings on the Left | Right of the player
 * ID > `TimbalandEnvironment.[0]Environment.[5]Buildings.[0]NearBuildingRight`
 * ID > `TimbalandEnvironment.[0]Environment.[5]Buildings.[1]NearBuildingLeft`
 * ID > `TimbalandEnvironment.[0]Environment.[5]Buildings`
+
 
 
 
