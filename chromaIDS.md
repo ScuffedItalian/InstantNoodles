@@ -19,6 +19,6 @@
 * INFO -> Spectro1 is left & Spectro2 is right, Spectro is both of them
 
 
-
+image.png
 # How can I contribute? 
 * Dm ScuffedItalian on Discord
