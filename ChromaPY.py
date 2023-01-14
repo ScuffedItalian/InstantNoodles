@@ -35,6 +35,10 @@ def TrackWall(timeStart, timeEnd, track):
         if '_track' not in wall["_customData"]:
             wall["_customData"]["_track"] = track
 
+# PUT CODE BELOW
+
+# PUT CODE ABOVE
+
 
 with open(Output, 'w') as outFile:
     json.dump(chroMap, outFile)
