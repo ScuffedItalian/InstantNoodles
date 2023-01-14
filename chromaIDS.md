@@ -70,3 +70,6 @@
 
 # How can I contribute? 
 * Dm ScuffedItalian on Discord
+
+# Where can I find ALL chroma ids?
+* [here](https://github.com/NoodleExtensionsCommunity/How-to-Noodle/tree/main/Chroma%20Logs)
