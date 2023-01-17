@@ -64,7 +64,54 @@
 
 
 
+## Rocket Leauge Environment
 
+### RocketCars
+* INFO -> Rocket car on the left and right from player's perspective
+* ID > `RocketEnvironment.[0]Environment.[7]RocketCarL`
+* ID > `RocketEnvironment.[0]Environment.[8]RocketCarR`
+![image](https://user-images.githubusercontent.com/110801525/212832142-3fd27bff-9a9e-4108-82cb-2a41763f97e7.png)
+![image](https://user-images.githubusercontent.com/110801525/212832157-76575d22-501e-461b-98d0-01498c1087ad.png)
+
+
+
+### Construction
+* INFO -> Construction (DESCRIPTIVE BY THE ID)
+* ID > `RocketEnvironment.[0]Environment.[5]Construction` Construction by the lane
+* ID > `RocketEnvironment.[0]Environment.[6]PlayersPlace.[2]Construction` Box under the player
+![image](https://user-images.githubusercontent.com/110801525/212832059-caf80ff3-a3e2-4e5f-8854-2782fb3380a4.png)
+![image](https://user-images.githubusercontent.com/110801525/212832104-8553a519-17d2-478e-822f-86a5740c07e4.png)
+
+
+
+### Rocket Arena Light
+* INFO -> The lights that wrap right around the player half way
+* ID > `RocketEnvironment.[0]Environment.[13]RocketArenaLight`
+![image](https://user-images.githubusercontent.com/110801525/212831829-f1aefcee-9699-4e55-acbd-a5f0e4702dde.png)
+
+
+### Rocket Arena
+* INFO -> The arena behind the lane
+* ID > `RocketEnvironment.[0]Environment.[4]RocketArena`
+![image](https://user-images.githubusercontent.com/110801525/212831919-0ed3c08f-9a77-4a3a-b7f7-933b45f90a78.png)
+
+
+
+### Back Columns
+* INFO -> The back thingys behind the player
+* ID > `RocketEnvironment.[0]Environment.[39]BackColumns`
+![image](https://user-images.githubusercontent.com/110801525/212831942-a4754f0b-bfd4-4732-96eb-95a29788b098.png)
+
+
+### Mirrors
+* INFO -> The mirrors on the ground
+* ID > `RocketEnvironment.[0]Environment.[3]Mirror`
+![image](https://user-images.githubusercontent.com/110801525/212831990-7368b629-c437-46d6-be9a-e86fa3aa205f.png)
+
+### Rocket gate light
+* INFO -> The arena gate light
+* ID > `RocketEnvironment.[0]Environment.[15]RocketGateLight`
+![image](https://user-images.githubusercontent.com/110801525/212831775-de10813e-fe93-42a5-a241-fd07b0d720ed.png)
 
 
 
