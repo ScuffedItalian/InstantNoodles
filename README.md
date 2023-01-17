@@ -10,7 +10,7 @@ This repo is for utilities developed by people. NO THIS IS NOT NOOTILS!
 * [ChromaIDs](https://github.com/ScuffedItalian/InstantNoodles/blob/main/chromaIDS.md#chroma-environment-object-ids)
 * [ChromaPy](https://github.com/ScuffedItalian/InstantNoodles/wiki/ChromaPY)
 * [NoodleFramework](https://github.com/ScuffedItalian/InstantNoodles/wiki/NoodleFramework-Wiki)
-* SimpleMapper <-- COMING SOON
+* [SimpleMapper](https://github.com/ScuffedItalian/InstantNoodles/wiki/SimpleMapper-Wiki)
 
 ## Links
 * [Noodle Discord Server](https://discord.gg/ZEYByU5GJU) (Pretty Cool Place, i spend my life there)
